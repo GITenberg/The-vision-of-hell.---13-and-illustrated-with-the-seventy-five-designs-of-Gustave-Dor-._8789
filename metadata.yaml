@@ -1,0 +1,65 @@
+_repo: The-vision-of-hell.---13-and-illustrated-with-the-seventy-five-designs-of-Gustave-Dor-._8789
+_version: 0.0.1
+alternative_title: The Divine Comedy by Dante, Illustrated, Hell, Complete
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dorè, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dore, Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translator:
+    agent_name: Cary, Henry Francis
+    alias: Cary, H. F. (Henry Francis)
+    birthdate: 1772
+    deathdate: 1844
+    gutenberg_agent_id: '3622'
+    url: http://www.gutenberg.org/2009/agents/3622
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Francis_Cary
+covers:
+- cover_type: archival
+  image_path: 8789/8789-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+- &id001
+  cover_type: titlepage_image
+  image_path: //www.gutenberg.org/dirs/8/7/8/8789/8789-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: "Popular edition.\r\nWith critical and explanatory notes, life of Dante,\
+  \ and chronology."
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2004-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8789'
+language: en
+publication_note: "Cassell & Company, Limited:\r\nLondon, Paris & Melbourne.\r\n1892."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- To 1400 -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Hell -- Poetry'
+- !lcsh 'Epic poetry, Italian -- Translations into English'
+- GITenberg
+title: "The vision of hell. \r\nBy Dante Alighieri.\r\nTranslated by Rev. Henry Francis\
+  \ Cary, M.A.\r\nand illustrated with the seventy-five designs of Gustave Doré."
+titlepage_image: *id001
+url: http://www.gutenberg.org/ebooks/8789
