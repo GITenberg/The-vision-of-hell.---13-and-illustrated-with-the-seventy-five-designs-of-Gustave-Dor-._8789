@@ -1,5 +1,5 @@
 _repo: The-vision-of-hell.---13-and-illustrated-with-the-seventy-five-designs-of-Gustave-Dor-._8789
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: The Divine Comedy by Dante, Illustrated, Hell, Complete
 contributor:
   illustrator:
@@ -24,14 +24,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Henry_Francis_Cary
 covers:
 - cover_type: archival
-  image_path: 8789/8789-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- &id001
-  cover_type: titlepage_image
-  image_path: //www.gutenberg.org/dirs/8/7/8/8789/8789-h/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 8789-h/images/cover.jpg
 creator:
   author:
     agent_name: Dante Alighieri
@@ -43,6 +36,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: "Popular edition.\r\nWith critical and explanatory notes, life of Dante,\
   \ and chronology."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8789#The-vision-of-hell.---13-and-illustrated-with-the-seventy-five-designs-of-Gustave-Dor-.
 gutenberg_bookshelf: Italy
 gutenberg_issued: '2004-08-07'
 gutenberg_type: Text
@@ -61,5 +56,9 @@ subjects:
 - GITenberg
 title: "The vision of hell. \r\nBy Dante Alighieri.\r\nTranslated by Rev. Henry Francis\
   \ Cary, M.A.\r\nand illustrated with the seventy-five designs of Gustave Doré."
-titlepage_image: *id001
+titlepage_image:
+  cover_type: titlepage_image
+  image_path: //www.gutenberg.org/dirs/8/7/8/8789/8789-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
 url: http://www.gutenberg.org/ebooks/8789
